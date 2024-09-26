@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="modem_monitor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ModemMonitor"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="279"/>
+        <CursorPos X="37" Y="294"/>
+        <UsageCount Value="41"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="synautil.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="39"/>
+        <CursorPos X="10" Y="51"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\menus.pp"/>
+        <UnitName Value="Menus"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="325"/>
+        <CursorPos X="14" Y="342"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1616"/>
+        <CursorPos X="14" Y="1633"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="74" Column="25" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="238" Column="4" TopLine="220"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="46" Column="14" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="309" Column="67" TopLine="277"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="264" Column="27" TopLine="236"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="45" Column="14" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="214" Column="50" TopLine="190"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="257" TopLine="241"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="45" Column="14" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="121" Column="47" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="45" Column="32" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="124" Column="22" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="136" Column="42" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="51" Column="27" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="145" Column="51" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="143" Column="26" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="253" TopLine="234"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="45" Column="14" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="307" Column="5" TopLine="251"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="31" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="168" Column="15" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="66" Column="99" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="60" Column="19" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="154" Column="28" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="308" Column="130" TopLine="278"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="304" Column="60" TopLine="278"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="125" Column="31" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="50" Column="19" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="40" Column="5" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="modem_monitor.lpr"/>
+        <Caret Line="29" Column="3" TopLine="10"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
